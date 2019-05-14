@@ -1,0 +1,1 @@
+# SearX-Installation
